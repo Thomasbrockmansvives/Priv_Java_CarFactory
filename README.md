@@ -1,6 +1,6 @@
 # 📦 Java Maven Template
 
-[![Java](https://img.shields.io/badge/Java-25-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Java](https://img.shields.io/badge/Java-24-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Maven](https://img.shields.io/badge/Maven-3.9+-C71A36?logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![JUnit](https://img.shields.io/badge/JUnit-5.13-25A162?logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![AssertJ](https://img.shields.io/badge/AssertJ-3.27-blue)](https://assertj.github.io/doc/)
